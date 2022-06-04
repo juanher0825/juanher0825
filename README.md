@@ -1,16 +1,45 @@
-### Hi there 👋
+# Hi there! I'm Juan. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**juanher0825/juanher0825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I´m in the ninth semester of systems engineering at ICESI University💻. I am always willing to learn new things every day😁. I really love learning about new technologies that are emerging💥. I love programming, i´m actually work in my graduation project of cyber security.
 
-Here are some ideas to get you started:
+## About GitHub
+<div>
+  <a href="https://github.com/juanher0825">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanher0825&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanher0825&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
+### Languages & Tools 📌
+  ## 
+  <img align="left" height="90px" width="90px" alt="Java" src="https://cdn.worldvectorlogo.com/logos/java-4.svg"></img>
+  <img align="left" height="90px" width="90px" alt="Python" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></img>
+  <img align="left" height="90px" width="90px" alt="CSharp" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"></img>
+  <img align="left" height="90px" width="90px" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></img>
+  <img align="center" height="90px" width="90px" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></img>
+  <img align="center" height="90px" width="90px" alt="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></img>
+  <img align="center" height="90px" width="90px" alt="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"></img>
+<br>
+</br>
+  ##
+  <img align="left" height="90px" width="90px" alt="Sublime" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"></img>
+  <img align="left" height="90px" width="90px" alt="Eclipse" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg"></img>
+  <img align="left" height="90px" width="90px" alt="SpringTools" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></img>
+  <img align="left" height="90px" width="90px" alt="VS logo" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></img>
+  <img align="left" height="90px" width="90px" alt="VS logo" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg"></img>
+  <img align="center" height="90px" width="90px" alt="Slack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"></img>
+  <img align="center" height="90px" width="90px" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></img>
+  <img align="center" height="90px" width="90px" alt="Android Studio" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg"></img>
+  <br>
+</br>
+  ##
+### Spotify Playing 🎧 
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></img>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/2162pds3dxuyz6wkvptdtruaq)
+
+## To contact with me
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=juanher_10)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-hern%C3%A1ndez-a36b9222b/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juanhernandez__10/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanher0825@gmail.com)
+
