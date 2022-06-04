@@ -33,9 +33,8 @@ I´m in the ninth semester of systems engineering at ICESI University💻. I am 
 </br>
   ##
 ### Spotify Playing 🎧 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></img>
 
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/2162pds3dxuyz6wkvptdtruaq)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2162pds3dxuyz6wkvptdtruaq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2162pds3dxuyz6wkvptdtruaq&redirect=true)
 
 ## To contact with me
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=juanher_10)
