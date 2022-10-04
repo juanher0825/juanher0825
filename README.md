@@ -5,8 +5,8 @@ I´m in the ninth semester of systems engineering at ICESI University💻. I am 
 ## About GitHub
 <div>
   <a href="https://github.com/juanher0825">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanher0825&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanher0825&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-github-readme-stats-team.vercel.app/api?username=juanher0825&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-github-readme-stats-team.vercel.app/api/top-langs/?username=juanher0825&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
 ### Languages & Tools 📌
