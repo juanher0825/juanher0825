@@ -1,6 +1,6 @@
 # Hi there! I'm Juan. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I´m a Software Systems Enginner💻. I am always willing to learn new things every day😁. I really love learning about new technologies that are emerging💥. I love programming, i´m actually work in my graduation project of cyber security.
+Hello! I’m Juan Hernández, I’m a Software Systems Engineer💻. Interested in back-end development and Devops management, I have a high diversity in programming languages, I like the challenges and constant learning😁.
 
 ## About GitHub
 <div>
